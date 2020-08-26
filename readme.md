@@ -102,7 +102,7 @@ const pool = new Pool({
 
 Use SQL in your application like this.
 
-```sql
+```js
 
 async function queryDB() {
 	
